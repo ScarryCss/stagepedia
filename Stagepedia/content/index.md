@@ -2,12 +2,11 @@
 seo:
   title: 'Stagepedia'
   description: 'Schnelle Dokumentation von Datenblättern, Vorschriften, Belastungstabellen für Veranstaltungstechnik'
----
 
----
 title: Stagepedia
 description: Die Wissensbasis für Eventtechnik – schnell, strukturiert, praxisnah
 ---
+
 
 <div align="center">
 
